@@ -1,0 +1,44 @@
+.barra{
+	height: 70px;
+}
+
+.logo{
+	max-width: 50%;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+.fondo--sm{
+	background-image: url(../img/imagenmobil.png);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	border-radius: 0%;
+	position: relative;
+}
+
+.fondo--md{
+	background-image: url(../img/post-image.jpg);
+	height: 100vh;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	border-radius: 0%;
+}
+
+.header__title{
+	position: relative;
+	margin-top: 25%;
+
+
+}
+
+.flechas{
+	position: absolute;
+	
+	max-width: 60px;
+	margin-bottom:auto;
+
+}
